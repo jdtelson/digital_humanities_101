@@ -2,7 +2,7 @@
 
 This repository contains my group and individual projects for the Summer 2020 class Digital Humanities 101 - Practicing the Digital Humanities. 
 
-![image of sky](https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-MHM425BWQ9F-Full-Image_GalleryBackground-en-US-1521579412582._SX1080_.jpg)
+![image of sky](images/stars.jpg)
 
 ## Abstract of Group Project
 
